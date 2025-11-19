@@ -1,7 +1,7 @@
 {
     "name": "NFT #3",
     "description": "Третий тестовый NFT", 
-    "image": "https://raw.githubusercontent.com/nastya/Blockchain/main/nft-collection/images/nft3.png",
+    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft3.png",
     "attributes": [
         {"trait_type": "Редкость", "value": "Эпический"},
         {"trait_type": "Цвет", "value": "Синий"}
