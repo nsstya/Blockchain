@@ -1,7 +1,7 @@
 {
     "name": "NFT #2", 
     "description": "Второй тестовый NFT",
-    "image": "https://raw.githubusercontent.com/nastya/Blockchain/main/nft-collection/images/nft2.png",
+    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft2.png",
     "attributes": [
         {"trait_type": "Редкость", "value": "Редкий"},
         {"trait_type": "Цвет", "value": "Зелёный"}
