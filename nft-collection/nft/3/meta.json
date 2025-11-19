@@ -1,0 +1,8 @@
+{
+    "name": "NFT #3",
+    "description": "Третий тестовый NFT", 
+    "image": "https://via.placeholder.com/400x400/0000ff/ffffff?text=NFT+3",
+    "attributes": [
+        {"trait_type": "Редкость", "value": "Эпический"}
+    ]
+}
