@@ -1,0 +1,8 @@
+{
+    "name": "NFT #1",
+    "description": "Первый тестовый NFT",
+    "image": "https://via.placeholder.com/400x400/ff0000/ffffff?text=NFT+1",
+    "attributes": [
+        {"trait_type": "Редкость", "value": "Обычный"}
+    ]
+}
