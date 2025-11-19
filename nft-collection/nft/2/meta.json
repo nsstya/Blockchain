@@ -1,0 +1,8 @@
+{
+    "name": "NFT #2", 
+    "description": "Второй тестовый NFT",
+    "image": "https://via.placeholder.com/400x400/00ff00/ffffff?text=NFT+2",
+    "attributes": [
+        {"trait_type": "Редкость", "value": "Редкий"}
+    ]
+}
