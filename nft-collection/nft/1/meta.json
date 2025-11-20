@@ -1,8 +1,62 @@
 {
-    "name": "NFT #1",
-    "description": "Первый тестовый NFT",
-    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft1.png",
-    "attributes": [
-        {"trait_type": "Редкость", "value": "Обычный"}
-    ]
+  "name": "NFT #1 - Обновленный через GitHub API",
+  "description": "✅ Успешно обновлено через Python скрипт! Время: 2025-11-20 17:35:11",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft1.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": 100
+    },
+    {
+      "trait_type": "Сила",
+      "value": 95
+    },
+    {
+      "trait_type": "Интеллект",
+      "value": 99
+    },
+    {
+      "trait_type": "Удача",
+      "value": 100
+    },
+    {
+      "trait_type": "Блокчейн",
+      "value": "TON"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Авто-обновленный"
+    },
+    {
+      "trait_type": "Версия",
+      "value": "3.0"
+    },
+    {
+      "trait_type": "Создатель",
+      "value": "Python + GitHub API"
+    },
+    {
+      "trait_type": "Метод",
+      "value": "REST API"
+    },
+    {
+      "trait_type": "Дата",
+      "value": "2025-11-20"
+    },
+    {
+      "trait_type": "Время",
+      "value": "17:35:11"
+    }
+  ],
+  "external_url": "https://github.com/nsstya/Blockchain",
+  "background_color": "1a1a1a",
+  "properties": {
+    "updated_via": "GitHub REST API",
+    "timestamp": "2025-11-20T17:35:11.043923",
+    "automated": true
+  }
 }
