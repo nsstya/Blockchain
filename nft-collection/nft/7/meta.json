@@ -1,0 +1,19 @@
+{
+  "name": "NFT #6",
+  "description": "Автоматически созданный NFT номер 6",
+  "image": "https://github.com/nsstya/Blockchain/blob/main/nft-collection/nft/z4/nft11.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": "6"
+    },
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    }
+  ]
+}
