@@ -1,1 +1,23 @@
-
+{
+  "name": "NFT Z4 #4",
+  "description": "Специальный NFT из папки z4 номер 4",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft11.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Особый"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": "4"
+    },
+    {
+      "trait_type": "Серия",
+      "value": "Z4"
+    },
+    {
+      "trait_type": "Тип",
+      "value": "Авто"
+    }
+  ]
+}
