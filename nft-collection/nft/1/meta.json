@@ -1,6 +1,6 @@
 {
   "name": "NFT #1 - Обновленный через GitHub API",
-  "description": "✅ Успешно обновлено через Python скрипт! Время: 2025-11-21 10:48:18",
+  "description": "✅ Успешно обновлено через Python скрипт! Время: 2025-11-21 10:50:09",
   "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft1.png",
   "attributes": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "trait_type": "Время",
-      "value": "10:48:18"
+      "value": "10:50:09"
     }
   ],
   "external_url": "https://github.com/nsstya/Blockchain",
   "background_color": "1a1a1a",
   "properties": {
     "updated_via": "GitHub REST API",
-    "timestamp": "2025-11-21T10:48:18.500199",
+    "timestamp": "2025-11-21T10:50:09.660102",
     "automated": true
   }
 }
