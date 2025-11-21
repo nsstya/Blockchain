@@ -1,0 +1,19 @@
+{
+  "name": "NFT #8",
+  "description": "Автоматически созданный NFT номер 8",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/nft/z4/nft11.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": "8"
+    },
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    }
+  ]
+}
