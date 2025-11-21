@@ -1,6 +1,6 @@
 {
-  "name": "NFT Z4 #4",
-  "description": "Специальный NFT из папки z4 номер 4",
+  "name": "NFT Z4 #5",
+  "description": "Специальный NFT из папки z4 номер 5",
   "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft11.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Уровень",
-      "value": "4"
+      "value": "5"
     },
     {
       "trait_type": "Серия",
