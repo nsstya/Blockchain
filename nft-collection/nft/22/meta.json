@@ -1,0 +1,19 @@
+{
+  "name": "NFT #21",
+  "description": "Автоматически созданный NFT номер 21",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft1.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": "20"
+    },
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    }
+  ]
+}
