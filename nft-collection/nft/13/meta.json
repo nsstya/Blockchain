@@ -1,0 +1,19 @@
+{
+  "name": "NFT #13",
+  "description": "Автоматически созданный NFT номер 13",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft2.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": "12"
+    },
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    }
+  ]
+}
