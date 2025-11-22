@@ -1,0 +1,19 @@
+{
+  "name": "NFT #20",
+  "description": "Автоматически созданный NFT номер 20",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft3.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Уровень",
+      "value": "20"
+    },
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    }
+  ]
+}
