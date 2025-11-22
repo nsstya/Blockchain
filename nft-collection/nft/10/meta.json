@@ -1,7 +1,7 @@
 {
-  "name": "NFT #9",
-  "description": "Автоматически созданный NFT номер 9",
-  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/nft/z4/nft22.png",
+  "name": "NFT #10",
+  "description": "Автоматически созданный NFT номер 10",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft2.png",
   "attributes": [
     {
       "trait_type": "Редкость",
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Уровень",
-      "value": "8"
+      "value": "10"
     },
     {
       "trait_type": "Тип",
