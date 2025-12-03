@@ -1,1 +1,9 @@
-
+{
+  "name": "BMSTU Token - Style N",
+  "description": "Токен с amount_style='n' - отображение количества",
+  "symbol": "BMT-N",
+  "decimals": 9,
+  "amount_style": "n",
+  "render_type": "currency",
+  "image_data": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzAwNjZGRiIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNDAiIHI9IjIwIiBmaWxsPSIjRkZGMDAwIi8+PHRleHQgeD0iNTAiIHk9Ijc1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiNGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkJNVC1OPC90ZXh0Pjwvc3ZnPg=="
+}
