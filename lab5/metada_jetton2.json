@@ -1,5 +1,4 @@
-metadata = {
-        "uri": "",  
+{
         "name": "Test Token2",
         "description": "Изменен amount_style",
         "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/lab5/images-2.png",  
@@ -7,4 +6,4 @@ metadata = {
         "decimals": "9", 
         "amount_style": "n-of-total",
         "render_type": "currency"
-    }
+}
