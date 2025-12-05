@@ -1,10 +1,10 @@
 metadata = {
-        "uri": "",  # Оставляем пустым для офф-чейн метаданных
-        "name": "Test Token2",  # Название токена
-        "description": "Это тестовый жетон с base64 метаданными",  # Описание
+        "uri": "",  
+        "name": "Test Token2",
+        "description": "Изменен amount_style",
         "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/lab5/images-2.png",  
-        "symbol": "TT2",  # Символ токена
-        "decimals": "9",  # Количество знаков после запятой
-        "amount_style": "n-of-total",  # Другой стиль отображения
-        "render_type": "currency"  # Тип отображения
+        "symbol": "TT2", 
+        "decimals": "9", 
+        "amount_style": "n-of-total",
+        "render_type": "currency"
     }
