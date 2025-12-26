@@ -1,7 +1,7 @@
 {
     "name": "Мой третий NFT", 
     "description": "Тестовый",
-    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/2018-03-26_1.jpg",
+    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/good-good-blockchain-featured-2.jpg",
     "attributes": [
         {"trait_type": "Просто атрибут", "value": "это тестовый атрибут"}
     ]
