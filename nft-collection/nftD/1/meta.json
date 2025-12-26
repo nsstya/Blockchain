@@ -1,9 +1,30 @@
 {
-    "name": "Мой первый NFT", 
-    "description": "Тестовый",
-    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/2018-03-26_1.jpg",
-    "attributes": [
-        {"trait_type": "Редкость", "value": "Редкий"},
-        {"trait_type": "Цвет", "value": "Разноцветный"}
-    ]
+  "name": "А это первый NFT и он уже обновлен",
+  "description": "Успех! Время: 2025-12-26 23:07:25",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft1.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Блокчейн",
+      "value": "TON"
+    },
+    {
+      "trait_type": "Дата",
+      "value": "2025-12-26"
+    },
+    {
+      "trait_type": "Время",
+      "value": "23:07:25"
+    }
+  ],
+  "external_url": "https://github.com/nsstya/Blockchain",
+  "background_color": "1a1a1a",
+  "properties": {
+    "updated_via": "GitHub REST API",
+    "timestamp": "2025-12-26T23:07:25.376362",
+    "automated": true
+  }
 }
