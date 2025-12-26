@@ -1,0 +1,9 @@
+{
+    "name": "Мой первый NFT", 
+    "description": "Тестовый",
+    "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft2.png",
+    "attributes": [
+        {"trait_type": "Редкость", "value": "Редкий"},
+        {"trait_type": "Цвет", "value": "Разноцветный"}
+    ]
+}
