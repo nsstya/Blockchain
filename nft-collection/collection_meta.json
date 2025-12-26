@@ -1,5 +1,5 @@
 {
-    "name": "Test NFT Collection",
-    "description": "Тестовая коллекция для лабораторной работы по блокчейну",
+    "name": "NFT Collection",
+    "description": "ЛР4",
     "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/collection_image.png"
 }
