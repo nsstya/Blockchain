@@ -1,0 +1,11 @@
+{
+  "name": "NFT #6",
+  "description": "NFT номер 6",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft111.png",
+  "attributes": [
+    {
+      "trait_type": "Тип создания",
+      "value": "Автоматический"
+    }
+  ]
+}
