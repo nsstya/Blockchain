@@ -1,6 +1,6 @@
 {
   "name": "А это первый NFT и он уже обновлен",
-  "description": "Успех! Время: 2025-12-26 23:18:54",
+  "description": "Успех! Время: 2025-12-27 10:48:54",
   "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/2018-03-26_1.jpg",
   "attributes": [
     {
@@ -13,18 +13,18 @@
     },
     {
       "trait_type": "Дата",
-      "value": "2025-12-26"
+      "value": "2025-12-27"
     },
     {
       "trait_type": "Время",
-      "value": "23:18:54"
+      "value": "10:48:54"
     }
   ],
   "external_url": "https://github.com/nsstya/Blockchain",
   "background_color": "1a1a1a",
   "properties": {
     "updated_via": "GitHub REST API",
-    "timestamp": "2025-12-26T23:18:54.958003",
+    "timestamp": "2025-12-27T10:48:54.600403",
     "automated": true
   }
 }
