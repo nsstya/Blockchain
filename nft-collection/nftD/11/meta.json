@@ -1,0 +1,11 @@
+{
+  "name": "NFT #10",
+  "description": "NFT номер 10",
+  "image": "https://raw.githubusercontent.com/nsstya/Blockchain/main/nft-collection/images/nft112.png",
+  "attributes": [
+    {
+      "trait_type": "Тип создания",
+      "value": "Автоматический"
+    }
+  ]
+}
